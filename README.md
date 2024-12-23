@@ -24,7 +24,7 @@ Train the compiled model on the preprocessed training data for 5 epochs with a b
 Evaluate the trained model's performance on the test set by plotting training/validation metrics and generating a confusion matrix and classification report. Additionally, make predictions on sample images to demonstrate model inference.
 
 ## PROGRAM:
-### Name: BARADHAN>L
+### Name: BARADHAN.L
 ### Register Number: 21224040045
 ```python
 import numpy as np
